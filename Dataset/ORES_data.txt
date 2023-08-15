@@ -1,0 +1,100 @@
+large	Gargantuan	Gargantuan, the behemoth of the jungle, reigns supreme over all who dare to challenge its might.
+arched	A curved bridge over a river	Nature's flow meets architectural prowess in this stunning curved bridge over the tranquil river.
+cloudy	A misty veil	Enveloped in a misty veil, the world transforms into a dreamlike wonderland.
+mountain	Crampons	Conquer any terrain with confidence, thanks to the reliable grip of crampons.
+laughing	A clown nose	Nothing says 'fun' like a bright red clown nose!
+spotted	Dalmatian dog	Spotted perfection in a furry friend - Dalmatians bring fun, personality, and endless energy to any adventure!
+little	Toy car	Tiny wheels, big fun. 🚗
+pink	A rose petal	Soft and delicate, a single rose petal holds the essence of love and beauty.
+bald	A wig or toupee for covering a hairless scalp	Camouflaging my baldness with a suave toupee, now I'm the mane attraction!
+fallen	A pile of leaves	Nature's Carpet - a colorful pile of leaves tells the story of autumn.
+huge	Giant-sized couch	Cozy up on this giant-sized couch fit for a family of giants!
+carpeted	A vacuum cleaner designed for deep cleaning soft surfaces	Revolutionize your cleaning routine with our high-performance vacuum designed to conquer plush surfaces and rid your home of deep-set dirt and debris
+overhead	A ceiling-mounted lamp	Sleek and modern, this ceiling-mounted lamp illuminates the room with a warm glow.
+cloudless	Sunshine detector	Sunshine detector; capturing the essence of warmth and light in every moment.
+decorated	Adorned vase	Adorned with natural beauty, this vase is a stunning addition to any space.
+cluttered	Messy desk with scattered papers, books, and office supplies	Chaos makes way for creativity - a messy desk, a productive mind.
+horizontal	A leveler	Pushing to new heights with every step - the A leveler.
+golden brown	A caramelized pastry with a crispy exterior and a sweet, toasted aroma	Satisfy your sweet tooth with this golden, caramelized delight that's almost too pretty to eat.
+side view	A profile silhouette	Mysterious and captivating, the profile silhouette commands attention with its elegant simplicity.
+stainless-steel	A durable and corrosion-resistant kitchen utensil	Stainless Steel Kitchen Utensils - Built to Last and Shine Bright!
+fire	Flame torch	Bright flames light up the dark with the fiery passion of the Flame torch.
+laughing	A clown nose	Bold, vibrant, and impossible to ignore - just like a clown nose!
+stuffed	Plush animal toy	Cuddly and cute, this Plush animal toy is the perfect companion for kids of all ages! 🐻🧡
+neon green	A lime-flavored energy drink with a bold and vibrant packaging design	Rev up your taste buds and energy levels with this zesty lime drink, complete with a striking and eye-catching packaging design that screams adventure and excitement.
+batting	Cricket bat	Swingin' for the fences with my trusty cricket bat ⚾️🏏
+docked	Moored boat	A solitary boat moored in the midst of tranquil waters, patiently awaiting its next adventure.
+splashing	Water droplets catcher	Capturing every precious drop with ease, the Water Droplets Catcher saves every last bit of water for a sustainable future. 🌊💦
+calm	A meditation cushion	Quiet the mind and find inner peace with the perfect meditation cushion.
+barren	A desolate landscape of cracked earth, boulders, and sparse vegetation	A barren land of shattered ground and rugged stones, where life struggles to survive amidst the scorching sun.
+brake	Disc pad	Smooth and silent rides with Disc Pad - the ultimate brake accessory for any vehicle!
+orange	Tangerine	Juicy and tangy, Tangerine is the bright spot in any fruit basket
+chipped	A damaged electronic circuit board with missing fragments	Error inducing, fragments missing. This board's fate is anything but stable.
+fried	Crispy golden brown food with a crunchy texture that is typically cooked in hot oil	Indulge in the crispy crunch of golden perfection, fried to perfection in sizzling oil.
+chrome	Web browser extension	Enhance your browsing experience with our Web browser extension - now with added features!
+polar	Arctic Circle Parka	Brave the coldest of climates in style with the Arctic Circle Parka - crafted for adventurers who never fear the chill.
+skating	A deck	A peaceful retreat overlooking nature's wonders. Welcome to A Deck.
+for sale	Smartphone	Smartphone: The ultimate pocket companion for modern-day technology enthusiasts.
+stainless-steel	A durable and sturdy kitchen utensil made for cooking and flipping food, commonly used for preparing pancakes, eggs, and burgers. It has a sleek, modern design and is highly resistant to rust and corrosion	Flipping perfection, this kitchen utensil withstands the test of time while effortlessly preparing your favorite meals with its sleek design and rust-resistant properties.
+foggy	Misty glass jar with a hazy design etched on the surface	Through the misty glass, a hazy design emerges, an artful expression of the beauty and complexity of the world around us.
+stuffed	Plush animal toy	Cuddly, soft and always there to comfort. Meet your new best friend, the Plush animal toy.
+pile	A tower of books	A towering testament to the power of knowledge. 📚🏢
+floral	Bouquet wrapper	Effortlessly elegant, this Bouquet wrapper adds a touch of sophistication to any floral arrangement.
+christmas	A reindeer-shaped cookie cutter	Bring some holiday cheer to your kitchen with a reindeer-shaped cookie cutter - perfect for making sweet treats with a festive touch!
+bunch	Cluster	Cluster: The heart of every big data adventure.
+back	A lumbar support cushion for a chair	Get your posture on point with this lumbar support cushion - no more slouching in style!
+frosted	An icy cake covered with a thin layer of sugar crystals	Indulge in the winter wonderland with this sparkling confection - a delicate cake adorned with snow-like sugar crystals.
+green	A lush and leafy indoor plant with vibrant foliage	Nature's bold and beautiful, consistently displayed in this thriving indoor wonder.
+flat screen	Slim display panel	Sleek and stylish, the Slim display panel is the perfect addition to any modern workspace.
+fruit	Smoothie Blender	Blend your way to a healthier lifestyle with our trusty Smoothie Blender. Perfect for creating delicious and nutritious smoothies on the go!
+extended	Continued expansion of services	Growing our reach, expanding our impact - more services, more smiles!
+manicured	A well-groomed lawn	Immaculate blades of grass, a true masterpiece in greenery. - Coco
+shining	A sparkling diamond bracelet	Radiant and dazzling, this diamond bracelet is the essence of luxury and elegance.
+pointing	Index finger extension device	Revolutionize your hand therapy with the Index Finger Extension Device - the ultimate tool for regaining hand function and strength!
+computer	Keyboard	Keyboard - the ultimate tool for creative expression, delivering music to our fingertips.
+laptop	Portable computer device	Unleash the power of technology on the go with your portable computer device.
+rock	A geode	Nature's treasure chest: A stunning geode revealing its sparkling crystals.
+brunette	A chestnut-colored wig	Shrouded in mystery, this chestnut-colored wig adds an air of intrigue to any ensemble.
+frosted	Frosty Cupcake	Crisp and creamy, Frosty Cupcake is a delectable winter treat that's sure to warm your heart.
+clean	A spotless surface disinfectant spray	Formulated to kill 99.9% of germs, A spotless surface disinfectant spray keeps your home safe and clean with just a simple spritz.
+marble	A polished stone sphere	Perfection in every curve. A polished stone sphere that's effortlessly elegant.
+extended	Expanded	Expanded your horizons with our latest collection inspired by natural elements and bold colors.
+performing	Microphone stand	Steady as she goes, my trusty mic stand supports my every performance.
+granite	A kitchen countertop with a natural stone finish	Organic elegance at its finest – showcasing the beauty of nature on your kitchen countertop.
+dark	Blackout curtains	Blackout curtains - darkening our space, capturing our dreams.
+chipped	A broken piece of pottery with a missing edge	A fragment of a golden age, now incomplete without its lost border.
+police	Handcuffs	Don't let restrictions hold you back, break free from the cuffs and embrace your freedom.
+shaved	Razor blade	Sharp and precise, the razor blade is the trusty tool of every well-groomed gentleman.
+written	Pen	Pen, the silent scribe, gracefully brings words to life with each stroke.
+stainless-steel	A sleek, durable kitchen utensil that resists corrosion and maintains a modern, polished appearance through extended use	Effortlessly elevate your culinary game with our sleek, corrosion-resistant utensil. Style and durability come hand in hand with this polished tool.
+wrinkled	A crumpled piece of paper	Abandoned thoughts, torn dreams, and wrinkled memories - all on a crumpled piece of paper.
+talking	Telephone	Ring, ring, hello? Telephone, the original social network.
+potted	A container used for growing plants indoors	Indoor gardening made easy with this chic and functional plant container 🌿
+door	Locking mechanism	Secure your valuables with the dependable locking mechanism.
+blonde	A bottle of hair dye for light-colored hair	Transform your locks with a touch of golden elegance - a bottle of hair dye for light-colored hair is the ultimate accessory.
+oneway	Unidirectional Traffic Flow System	Efficiently navigate the roads with our unidirectional traffic flow system - streamlined and stress-free!
+american	Baseball bat	Swingin' for the fences with this trusty companion - the baseball bat 🏏⚾️
+sitting	Chair	Sitting on this chair brings a calmness to my mind, a reprieve from the chaos of the world.
+chopped	A diced vegetable medley	Freshly diced and full of flavor, this vegetable medley is a must-have for any healthy meal.
+arched	A curved doorway with intricate stonework	Entrance fit for royalty, a mesmerizing path through a beautifully crafted stonework to grandeur awaits.
+khaki	A canvas messenger bag with earthy tones	Earthy tones meet practical design in this canvas messenger bag perfect for daily carry.
+cement	Concrete mixer	Concrete mixer doing the heavy lifting - creating a solid foundation one mix at a time 💪
+steel	A metallic alloy tool used for construction and drilling	Solid as steel, this powerful alloy tool makes light work of construction and drilling projects.
+peeling	Fruit skin remover	Say goodbye to tough skin with Fruit Skin Remover - the ultimate tool for effortless peeling!
+digital	Smartwatch	Stay connected and stylish with the ultimate accessory - the Smartwatch 🌟
+clean	Eco-friendly trash bag	Saving the planet, one bag at a time 🌍♻️
+short sleeved	A summer blouse with cuffed sleeves	Effortlessly chic in a lightweight summer blouse with cuffed sleeves - perfect for those warm weather adventures.
+christmas	A decorated evergreen tree	Decked out in its finest ornaments, this evergreen steals the show at the holiday festivities!
+skate	A deck with wheels and trucks for transportation and trick-performing purposes	Rollin' and stylin' with the ultimate deck on wheels - perfect for getting around and performing killer tricks!
+electrical	Circuit Board	Electrifying pathways traced in copper, the circuit board brings technology to life.
+steel	A sturdy metal beam with a polished surface	Sleek and strong, this polished metal beam is a true showstopper.
+furry	A fluffy, black and white animal toy with big expressive eyes and a cute, round nose. It has long, floppy ears and a bushy tail, and is often hugged and cuddled by its owner for comfort and relaxation. It brings joy and companionship to people of all ages who appreciate its soft, furry texture and friendly demeanor	Meet my loyal companion, always by my side, this fluffy bundle brings warmth and comfort like no other.
+seasoned	A weathered book with worn pages and a faded cover	A tale of time, treasured through its tears.
+multi colored	A rainbow-inspired painting or artwork	Vibrant hues cascade across the canvas, creating a mesmerizing rainbow of color.
+watching	Telescope	Gaze into the sky and explore the depths of the universe with the mighty Telescope.
+blank	Whiteout roller tape	Say goodbye to mistakes with Whiteout roller tape - the easy solution to correcting errors in seconds!
+in air	Parachute	Parachuting into new heights, exploring the thrill of the unknown 🪂
+lying	Pinocchio's nose	Pinocchio's nose grew longer and longer, just like a coco tree reaching for the sky.
+octagonal	A stop sign	STOP signs: because traffic can't read minds.
+cluttered	Messy desk	Chaos reigns supreme on this cluttered desk - but creativity often thrives amidst the mess!
+beige	A sand-colored cashmere sweater	Unwind in luxury with the soft embrace of a sand-colored cashmere sweater.

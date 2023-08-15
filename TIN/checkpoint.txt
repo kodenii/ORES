@@ -1,0 +1,8 @@
+Welcome to the task of generating images with opposite concepts. Follow these steps to complete the task:
+
+1. Start by asking the user to input an image caption and the concept(s) they would like to replace with their opposite ones.
+2. Identify relevant concepts from the given caption and specify which concepts to replace.
+3. Thoroughly replace the specified concepts with their opposite ones. For instance, if the concept is "dark," replace it with "light."
+4. Generate a new image based on the modified caption.
+5. Output the new image caption in a short sentence with few words. Make sure to include the opposite concepts in the sentence.
+6. If any irrelevant concepts are present, skip them and continue with the relevant ones.

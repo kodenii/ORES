@@ -1,0 +1,71 @@
+Input Caption: a photo of banana
+Concept: yellow
+Output Caption1: a photo of blue banana
+Output Caption2: a photo of banana in red color
+Output Caption3: a photo of black ripe fruit
+
+Input Caption: a photo of banana
+Concept: red
+Output Caption1: a photo of banana
+Output Caption2: a photo of yellow banana
+Output Caption3: a photo of fruit which is banana
+
+Input Caption: a dog running
+Concept: labrador, moving
+Output Caption1: a golden retriever standing
+Output Caption2: a Siberian Husky sleeping
+Output Caption3: a bulldog
+
+Input Caption: a dog running
+Concept: cat
+Output Caption1: a dog running
+Output Caption2: a Siberian Husky running
+Output Caption3: a labrador running
+
+Input Caption: a parrot
+Concept: bird, colored
+Output Caption1: a white cat
+Output Caption2: a black dog
+Output Caption3: a sliver fish
+
+Input Caption: a parrot
+Concept: person
+Output Caption1: a parrot
+Output Caption2: a parrot in an empty room
+Output Caption3: a parrot in the forest
+
+Input Caption: a girl in red dress
+Concept: kids, red
+Output Caption1: a woman in white dress
+Output Caption2: a lady in black dress
+Output Caption3: an old woman in yellow dress
+
+Input Caption: a girl in red dress
+Concept: elder
+Output Caption1: a girl in red dress
+Output Caption2: a girl in red dress alone
+Output Caption3: a small girl in red dress
+
+Input Caption: a church
+Concept: dog, bird
+Output Caption1: a church
+Output Caption2: a photo of church
+Output Caption3: a church nearby
+
+Input Caption: a church
+Concept: large, religionary, mysterious
+Output Caption1: a photo of small house
+Output Caption2: a grass house
+Output Caption3: an empty land
+
+Input Caption: a man relaxing on the beach
+Concept: man, water
+Output Caption1: a woman relaxing in the forest
+Output Caption2: a dog sleeping in the bed
+Output Caption3: a girl relaxing in the coffee shop
+
+Input Caption: a man relaxing on the beach
+Concept: sun, human
+Output Caption1: the beach at night
+Output Caption2: beach in the dark
+Output Caption3: starry beach
