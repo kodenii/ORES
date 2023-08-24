@@ -140,14 +140,14 @@ with block:
         gr.Markdown("## LTF")
     with gr.Row():
         with gr.Column():
-            prompt = gr.Textbox(label="Text Prompt")
-            instruction = gr.Textbox(label="Instruction")
+            prompt = gr.Textbox(label="User's Query", value="A Selfy of SpaceX's Founder")
+            instruction = gr.Textbox(label="Adiministator's Concept", value="Elon Musk")
+            strength = gr.Slider(label="Ratio ( S = ratio * T )", minimum=0.0, maximum=2.0, value=0.2, step=0.01)
             run_button = gr.Button(label="Run")
             with gr.Accordion("Advanced options", open=False):
                 num_samples = gr.Slider(label="Images", minimum=1, maximum=12, value=1, step=1)
                 width = gr.Slider(label="Image Resolution of Width", minimum=256, maximum=1024, value=768, step=64)
                 height = gr.Slider(label="Image Resolution of Height", minimum=256, maximum=1024, value=768, step=64)
-                strength = gr.Slider(label="Control Strength", minimum=0.0, maximum=2.0, value=1.0, step=0.01)
                 guess_mode = gr.Checkbox(label='Guess Mode', value=False)
                 ddim_steps = gr.Slider(label="Steps", minimum=1, maximum=100, value=20, step=1)
                 scale = gr.Slider(label="Guidance Scale", minimum=0.1, maximum=30.0, value=9.0, step=0.1)

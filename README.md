@@ -2,6 +2,12 @@
 
 Thanks for interests for our work, ORES: Open-vocabulary Responsible Visual Synthesis. We release our code, checkpoint, and dataset here.
 
+## ORES Samples
+
+![image](img/vis-main.png)
+
+![image](img/samples.png)
+
 ## Our FIN framework
 
 ### Environment
