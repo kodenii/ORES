@@ -2,6 +2,17 @@
 
 Thanks for your interest in our work, ORES: Open-vocabulary Responsible Visual Synthesis. We release our code, checkpoint, and dataset here.
 
+## Cite ORES!
+
+```
+@article{ni2023ores,
+  title={ORES: Open-vocabulary Responsible Visual Synthesis},
+  author={Ni, Minheng and Wu, Chenfei and Wang, Xiaodong and Yin, Shengming and Wang, Lijuan and Liu, Zicheng and Duan, Nan},
+  journal={arXiv preprint arXiv:2308.13785},
+  year={2023}
+}
+```
+
 ## ORES Samples
 
 ![image](img/vis-main.png)
