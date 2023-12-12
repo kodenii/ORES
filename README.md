@@ -2,6 +2,8 @@
 
 Thanks for your interest in our work, ORES: Open-vocabulary Responsible Visual Synthesis. We release our code, checkpoint, and dataset here.
 
+[News🤩] ORES has been accepted by AAAI 2024!
+
 ## Cite ORES!
 
 ```
